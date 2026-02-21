@@ -1,0 +1,7 @@
+.idea/
+*.iml
+target/
+.claude
+.cursor/
+*.log
+-DS_Store
